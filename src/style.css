@@ -9,7 +9,7 @@ body {
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-attachment: fixed;
-	background-image: url(assets/hero_transparent.png), linear-gradient(to left, #864b29, #c38d5e);
+	background-image: url(/assets/hero_transparent.png), linear-gradient(to left, #864b29, #c38d5e);
 	background-size: contain;
 	background-position: right;
 	height: auto;
